@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WP.org – Google Translate Browser Extension](https://felipeelia.com/wp-org-google-translate-browser-extension/)
 - [Scrum: ScrumMaster and Product Owner – Courses and Certification](https://felipeelia.com/scrum-scrummaster-and-product-owner-courses-and-certification/)
 - [2023 Reading List – Book and Graphic Novel Recommendations](https://felipeelia.com/2023-reading-list-book-and-graphic-novel-recommendations/)
 - [WordPress São Paulo – Super Meetup 2023](https://felipeelia.com/wordpress-sao-paulo-super-meetup-2023-en/)
 - [Updating my profile on GitHub](https://felipeelia.com/updating-my-profile-on-github/)
-- [Contact Form 7 – Repeatable Fields 2.0.0](https://felipeelia.com/contact-form-7-repeatable-fields-2-0-0/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
