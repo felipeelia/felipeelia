@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Felipe Elia</h1>
-<h3>Associate Director of Platform Engineering <a href="https://10up.com/" target="blank">@10up</a></h3>
+<h3>Director of Engineering, Cloud and Managed Services <a href="https://fueled.com/" target="blank">@Fueled</a>/</h3>
 
 - 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
 - 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
 - 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
-- 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)
+- 📝 I regularly write articles on [https://felipeelia.com/](https://felipeelia.com/)
 - 💬 Ask me about **WordPress, PHP, and Career**
-- 📫 How to reach me **https://felipeelia.dev/contact/**
+- 📫 How to reach me **https://felipeelia.com/contact/**
 - ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
 
 ### Blogs posts
