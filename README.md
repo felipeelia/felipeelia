@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Composer for PHP?](https://felipeelia.com/what-is-composer-for-php/)
 - [The WordPress REST API](https://felipeelia.com/the-wordpress-rest-api/)
 - [Improve your code with Early Return](https://felipeelia.com/improve-your-code-with-early-return/)
 - [WP.org – Google Translate Browser Extension](https://felipeelia.com/wp-org-google-translate-browser-extension/)
 - [Scrum: ScrumMaster and Product Owner – Courses and Certification](https://felipeelia.com/scrum-scrummaster-and-product-owner-courses-and-certification/)
-- [2023 Reading List – Book and Graphic Novel Recommendations](https://felipeelia.com/2023-reading-list-book-and-graphic-novel-recommendations/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
