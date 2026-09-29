@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick thought about being AI-First](https://felipeelia.com/quick-thought-about-being-ai-first/)
 - [The AI Accent and Writing’s Uncanny Valley](https://felipeelia.com/the-ai-accent-and-writings-uncanny-valley/)
 - [What Is Composer for PHP?](https://felipeelia.com/what-is-composer-for-php/)
 - [The WordPress REST API](https://felipeelia.com/the-wordpress-rest-api/)
 - [Improve your code with Early Return](https://felipeelia.com/improve-your-code-with-early-return/)
-- [WP.org – Google Translate Browser Extension](https://felipeelia.com/wp-org-google-translate-browser-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
